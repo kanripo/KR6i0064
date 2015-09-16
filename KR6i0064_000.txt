@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說文殊師利般涅槃經
+#+DATE: 2015-08-30 20:08:51.748146
+#+PROPERTY: JUAN 0
